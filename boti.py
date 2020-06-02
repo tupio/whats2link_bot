@@ -10,8 +10,8 @@ from telegram import InlineKeyboardButton, InlineKeyboardMarkup, ParseMode, Inpu
 from telegram.error import (TelegramError, Unauthorized, BadRequest,
                             TimedOut, ChatMigrated, NetworkError)
 
-TOKEN = "969636671:AAFMA4L8LSLXZm4aEln2lYWwVOdzQlKzNY8"
-PRIVATE_ID = "355535470"
+TOKEN = "96994245636671:AAFMsdfsdfsdfA4L8LSLXZOdzQlKzNY8"
+PRIVATE_ID = "33453865613"
 
 start_msg = "You can use this bot to generate *WhatsApp share links*.\nYou can find more information at [WhatsApp " \
             "FAQ](https://faq.whatsapp.com/en/android/26000030/).\n\n*Commands Available*\n" \
